@@ -9,13 +9,19 @@ During my free time and through attending and co-hosting many hackathons in the 
 
 ## $> ls features/
 
-  🚀 CEO and co-founder of [**ditCraft**](https://ditcraft.io), a Software Testing as a Service platform  
-  💼 Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)  
-  🛠 Experienced in Go, Solidity, Python, JS/Node.js, CI/CD and Docker  
-  👨‍💻 B.Sc. in Computer Science (Thesis on voting protocols on Ethereum)  
-  🎓 Implemented DAOs, TCRs, Commit-Reveal Voting, ERC20/ERC721 and own tokens  
-  🥋 Martial artist, runner, music lover and cinephile  
-  ❤️ 100% driven by passion
+  🚀&nbsp;&nbsp;CEO and co-founder of [**ditCraft**](https://ditcraft.io), a Software Testing as a Service platform
+  
+  💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
+  
+  🛠&nbsp;&nbsp;Experienced in Go, Solidity, Python, JS/Node.js, CI/CD and Docker
+  
+  👨‍💻&nbsp;&nbsp;B.Sc. in Computer Science (Thesis on voting protocols on Ethereum)
+  
+  🎓&nbsp;&nbsp;Implemented DAOs, TCRs, Commit-Reveal Voting, ERC20/ERC721 and own tokens
+  
+  🥋&nbsp;&nbsp;Martial artist, runner, music lover and cinephile
+  
+  ❤️&nbsp;&nbsp;100% driven by passion
 
 ## $> touch contact.me
-Feel free to follow me on [**Twitter**](https://twitter.com/pseudornd) or connect with me on [**LinkedIn**](https://linkedin.com/in/marvinkruse/). Prefer code? You've come to the right place. You're oldschool? Alright, shoot me an [**Email**](https://docs.google.com/forms/d/e/1FAIpQLScc2Opvvwi57HVEkTggU06DBbqTF7jI81KNGKY_0xKmQuWavA/viewform?hl=en) and I'll get back to you.
+Feel free to follow me on [**Twitter**](https://twitter.com/pseudornd) or connect with me on [**LinkedIn**](https://linkedin.com/in/marvinkruse/). You're oldschool? Alright, shoot me an [**Email**](https://docs.google.com/forms/d/e/1FAIpQLScc2Opvvwi57HVEkTggU06DBbqTF7jI81KNGKY_0xKmQuWavA/viewform?hl=en) and I'll get back to you.
