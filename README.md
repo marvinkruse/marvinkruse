@@ -21,7 +21,7 @@ During my free time and through attending and co-hosting many hackathons in the 
   
   🥋&nbsp;&nbsp;Martial artist, runner, music lover and cinephile
   
-  ❤️&nbsp;&nbsp;100% driven by passion (and ☕)
+  ❤️&nbsp;&nbsp;100% driven by passion and ☕
 
 ## $> touch contact.me
 Feel free to follow me on [**Twitter**](https://twitter.com/pseudornd) or connect with me on [**LinkedIn**](https://linkedin.com/in/marvinkruse/). You're oldschool? Alright, shoot me an [**Email**](https://docs.google.com/forms/d/e/1FAIpQLScc2Opvvwi57HVEkTggU06DBbqTF7jI81KNGKY_0xKmQuWavA/viewform?hl=en) and I'll get back to you.
