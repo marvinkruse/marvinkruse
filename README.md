@@ -9,7 +9,7 @@ During my free time and through attending and co-hosting many hackathons in the 
 
 ## $> ls features/
 
-  🚀&nbsp;&nbsp;CEO and co-founder of [**ditCraft**](https://ditcraft.io), a Software Testing as a Service platform
+  🚀&nbsp;&nbsp;CEO and co-founder of [**ditCraft**](https://ditcraft.io), a Software Testing as a Service platform offering Smart Contract Audits
   
   💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
   
