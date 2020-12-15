@@ -7,11 +7,13 @@ As an Ethereum advocate and an active member of the community, I'm either writin
 
 During my free time and through attending and co-hosting many hackathons in the past, I've been part of a lot of different projects revolving around token mechanics (with ERC20/ERC721), dApps, token curated registries, DAOs and voting schemes.
 
-## $> ls features/
+## $> ls work/
 
   🚀&nbsp;&nbsp;CEO and co-founder of [**ditCraft**](https://ditcraft.io), a Software Testing as a Service platform offering Smart Contract Audits
   
   💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
+
+## $> ls features/
   
   🛠&nbsp;&nbsp;Experienced in Go, Solidity, Python, JS/Node.js, CI/CD and Docker
   
