@@ -9,9 +9,9 @@ During my free time and through attending and co-hosting many hackathons in the 
 
 ## $> ls work/
 
-  🚀&nbsp;&nbsp;Founder of [**byterocket**](https://byterocket.dev), offering Software Development and Smart Contract Audits 
+  🚀&nbsp;&nbsp;Founder of [**byterocket**](https://byterocket.dev), offering Software Development and Smart Contract Audits 
   
-  📝&nbsp;&nbsp;CEO and Co-Founder of [**ditCraft**](https://ditcraft.io), a "Software Testing as a Service" provider
+  📝&nbsp;&nbsp;CEO and Co-Founder of [**ditCraft**](https://ditcraft.io), a "Software Testing as a Service" provider
   
   💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
 
