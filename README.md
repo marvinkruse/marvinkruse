@@ -5,13 +5,15 @@ As a developer, not a day goes by without me playing around with new ideas or co
 
 As an Ethereum advocate and an active member of the community, I'm either writing smart contracts, implementing novel ideas or learning new fascinating things through discussions with other members and projects.
 
-During my free time and through attending and co-hosting many hackathons in the past, I've been part of a lot of different projects revolving around token mechanics (with ERC20/ERC721), dApps, token curated registries, DAOs and voting schemes.
+During my free time and through attending and co-hosting many hackathons in the past, I've been part of a lot of different projects revolving around token mechanics (with ERC20/ERC721), cross-chain dApps, token curated registries, DAOs and voting schemes.
 
 ## $> ls work/
 
   🚀&nbsp;&nbsp;Founder of [**byterocket**](https://byterocket.dev), offering Software Development and Smart Contract Audits 
   
-  📝&nbsp;&nbsp;CEO and Co-Founder of [**ditCraft**](https://ditcraft.io), a "Software Testing as a Service" provider
+  ⚙️&nbsp;&nbsp;Buidler and Contributor to [**PrimeDAO**](https://www.prime.xyz)
+  
+  📝&nbsp;&nbsp;CEO and Co-Founder of [ditCraft](https://ditcraft.io), a "Software Testing as a Service" provider
   
   💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
 
@@ -21,7 +23,7 @@ During my free time and through attending and co-hosting many hackathons in the 
   
   👨‍💻&nbsp;&nbsp;B.Sc. in Computer Science (Thesis on voting protocols on Ethereum)
   
-  🎓&nbsp;&nbsp;Implemented DAOs, TCRs, Commit-Reveal Voting, ERC20/ERC721 and own tokens
+  🎓&nbsp;&nbsp;Implemented DAOs, TCRs, Commit-Reveal Voting, Cross-Chain dApps and own Tokens
   
   🥋&nbsp;&nbsp;Martial artist, runner, music lover and cinephile
   
