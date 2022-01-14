@@ -9,9 +9,11 @@ During my free time and through attending and co-hosting many hackathons in the 
 
 ## $> ls work/
 
-  🚀&nbsp;&nbsp;Founder of [**byterocket**](https://byterocket.dev), offering Software Development and Smart Contract Audits 
+  🚀&nbsp;&nbsp;Founder of [**byterocket**](https://byterocket.com), offering Software Development and Smart Contract Audits 
+
+  🌱&nbsp;&nbsp;Working on **Regenerative Finance** with byterocket being a member of the [**ClimateCollective**](https://climatecollective.org)
   
-  ⚙️&nbsp;&nbsp;Buidler and Contributor to [**PrimeDAO**](https://www.prime.xyz)
+  ⚙️&nbsp;&nbsp;Buidler and Contributor to [**PrimeDAO**](https://www.prime.xyz) and many more
   
   📝&nbsp;&nbsp;CEO and Co-Founder of [ditCraft](https://ditcraft.io), a "Software Testing as a Service" provider
   
