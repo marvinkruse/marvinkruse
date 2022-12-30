@@ -15,10 +15,10 @@ During my free time and through attending and co-hosting many hackathons in the 
   
   ⚙️&nbsp;&nbsp;Buidler and Contributor to [**LabDAO**](https://labdao.xyz), [**Inverter Network**](https://twitter.com/inverternetwork), [**PrimeDAO**](https://www.prime.xyz) and many more
   
-  📝&nbsp;&nbsp;Former CEO and Co-Founder of [ditCraft](https://ditcraft.io), a "Software Testing as a Service" provider, featuring a unique voting protocol on Ethereum
+  📝&nbsp;&nbsp;Former CEO and Co-Founder of [ditCraft](https://ditcraft.io), a "_Software Testing as a Service_" provider
   
-  💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master), implementing one of the first TCRs
-
+  💼&nbsp;&nbsp;Former blockchain developer at [weeve](https://weeve.network) (blockchain and backend dev, scrum master)
+  
 ## $> ls features/
   
   🛠&nbsp;&nbsp;Experienced in Go, Solidity, Python, JS/Node.js, CI/CD and Docker
